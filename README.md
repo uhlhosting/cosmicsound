@@ -3,7 +3,6 @@
 
 <a href="https://github.com/uhlhosting">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uhlhosting&show_icons=true&theme=merko&count_private=true" alt="uhlhosting's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhlhosting&theme=merko&layout=compact" alt="uhlhosting's github top languages" />
 </a>
 <br/>
 
