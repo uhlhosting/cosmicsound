@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://translate.mattermost.com/engage/mattermost/ro/">
-<img src="https://translate.mattermost.com/widgets/mattermost/ro/open-graph.png" alt="Translation status" />
+<img src="https://translate.mattermost.com/widgets/mattermost/ro/287x66-black.png" alt="Translation status" />
 </a>
 <!--
 **uhlhosting/uhlhosting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
